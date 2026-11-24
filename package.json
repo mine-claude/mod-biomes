@@ -1,0 +1,15 @@
+{
+  "name": "biomes",
+  "version": "0.1.0",
+  "description": "Biomas originais para os mundos novos, cada um com os seus blocos, a sua vegetação e as criaturas que moram nele. Biomas: Floresta Musgosa, Brejo Luminoso, Dunas Vermelhas, Prado Florido, Bosque de Copas Altas, Geodos de Cristal, Costa de Corais, Planalto das Ruínas, Savana Dourada, Bosque de Cogumelos Gigantes, Ipezal e Taiga Nevada. Arte gerada por código.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
